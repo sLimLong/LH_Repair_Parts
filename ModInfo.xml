@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="LH Repair Parts" />
+		<Description value="Repair parts of weapons, tools, armor" />
+		<Author value="slimlong,Survager" />
+		<Version value="21.0.1" />
+	</ModInfo>
+</xml>
